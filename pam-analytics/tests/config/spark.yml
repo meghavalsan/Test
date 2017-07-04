@@ -1,0 +1,10 @@
+env: spark
+master: local
+#master: yarn-client
+app_name: spark_test
+settings:
+  spark.executor.memory: 512M
+  spark.yarn.am.cores: 1
+  spark.executor.instances: 1
+  spark.executor.cores: 1
+  spark.serializer: org.apache.spark.serializer.KryoSerializer

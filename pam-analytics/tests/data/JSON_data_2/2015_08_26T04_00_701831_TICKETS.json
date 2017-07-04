@@ -1,0 +1,38 @@
+{
+ "message_time_utc": "2015-08-27T04:20:00Z", 
+ "start_time_utc": "2015-08-26T04:00:00Z", 
+ "data": [
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "support_code": "67", 
+     "irpt_type_code": "TX", 
+     "trbl_ticket_id": "1489", 
+     "cmi": 1824, 
+     "dw_ticket_id": "10381354", 
+     "repair_action_type": "TMRepairActionReplaceSwitch", 
+     "power_off": "2015-08-26T19:56:00Z", 
+     "irpt_cause_code": "188", 
+     "repair_action_description": "Replace 13 KV switch", 
+     "power_restore": "2015-08-27T01:00:00Z"
+    }, 
+    {
+     "support_code": "67", 
+     "irpt_type_code": "TX", 
+     "trbl_ticket_id": "1489", 
+     "cmi": 1824, 
+     "dw_ticket_id": "10381354", 
+     "repair_action_type": "TMRepairActionRefuseTransformer", 
+     "power_off": "2015-08-26T19:56:00Z", 
+     "irpt_cause_code": "188", 
+     "repair_action_description": "Refuse standard C ph TX", 
+     "power_restore": "2015-08-27T01:00:00Z"
+    }
+   ]
+  }
+ ], 
+ "end_time_utc": "2015-08-27T04:00:00Z", 
+ "message_type": "TICKETS", 
+ "message_id": "4aac4be0-9a33-4766-b23a-af4778a79df1"
+}

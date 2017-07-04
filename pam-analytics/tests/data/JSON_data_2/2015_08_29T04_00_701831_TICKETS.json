@@ -1,0 +1,62 @@
+{
+ "message_time_utc": "2015-08-30T04:20:00Z", 
+ "start_time_utc": "2015-08-29T04:00:00Z", 
+ "data": [
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "support_code": "0", 
+     "irpt_type_code": "TX", 
+     "trbl_ticket_id": "17", 
+     "cmi": 4147, 
+     "dw_ticket_id": "10386526", 
+     "repair_action_type": "TMRepairActionReworkedConnections", 
+     "power_off": "2015-08-29T04:57:00Z", 
+     "irpt_cause_code": "202", 
+     "repair_action_description": "Reworked Connections", 
+     "power_restore": "2015-08-29T11:14:00Z"
+    }, 
+    {
+     "support_code": "0", 
+     "irpt_type_code": "TX", 
+     "trbl_ticket_id": "17", 
+     "cmi": 4147, 
+     "dw_ticket_id": "10386526", 
+     "repair_action_type": "TMRepairActionAccessable", 
+     "power_off": "2015-08-29T04:57:00Z", 
+     "irpt_cause_code": "202", 
+     "repair_action_description": "See Comments", 
+     "power_restore": "2015-08-29T11:14:00Z"
+    }, 
+    {
+     "support_code": "0", 
+     "irpt_type_code": "TX", 
+     "trbl_ticket_id": "17", 
+     "cmi": 4147, 
+     "dw_ticket_id": "10386526", 
+     "repair_action_type": "TMRepairActionWrapperTransformer", 
+     "power_off": "2015-08-29T04:57:00Z", 
+     "irpt_cause_code": "202", 
+     "repair_action_description": "Replaced Transformer", 
+     "power_restore": "2015-08-29T11:14:00Z"
+    }, 
+    {
+     "support_code": "0", 
+     "irpt_type_code": "TX", 
+     "trbl_ticket_id": "739", 
+     "cmi": 494, 
+     "dw_ticket_id": "10386767", 
+     "repair_action_type": "TMRepairActionRefuseTransformer", 
+     "power_off": "2015-08-29T20:28:00Z", 
+     "irpt_cause_code": "2", 
+     "repair_action_description": "Refuse standard A ph TX", 
+     "power_restore": "2015-08-29T21:06:00Z"
+    }
+   ]
+  }
+ ], 
+ "end_time_utc": "2015-08-30T04:00:00Z", 
+ "message_type": "TICKETS", 
+ "message_id": "8e48048c-24ca-4cb8-9970-35f214fd4d6e"
+}

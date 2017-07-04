@@ -1,0 +1,6 @@
+mode: local
+level: debug
+log: ./foundation.log
+error_log: ./foundation_error.log
+remote_host: logstash-redis.auto-grid-dev.com
+remote_timeout: 5

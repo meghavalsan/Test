@@ -1,0 +1,5 @@
+substn_name,fdr_num,prem_num,phas_type,cis_dvc_coor,ami_dvc_name,mtr_evnt_id,mtr_evnt_tmstmp,mtr_evnt_insrt_tmstmp,evnt_argus,evnt_txt
+ROCK ISLAND,701831,1513572,S,8728451000,G0206897547,15096,8/25/2015 12:00:00 AM,8/25/2015 12:21:52 AM,{{1}{160}{161}},Sag Count: difference=1 old count=160 new count=161
+ROCK ISLAND,701831,1514021,S,8728472330,G0204041390,15096,8/25/2015 12:00:00 AM,8/25/2015 12:30:50 AM,{{1}{70}{71}},Sag Count: difference=1 old count=70 new count=71
+ROCK ISLAND,701831,1513559,S,8728451000,G0204191198,15096,8/25/2015 12:00:00 AM,8/25/2015 12:30:18 AM,{{1}{84}{85}},Sag Count: difference=1 old count=84 new count=85
+ROCK ISLAND,701831,1522170,S,8728387790,G0204188329,100007,8/25/2015 12:05:15 AM,8/25/2015 12:05:27 AM,{{0013500100ac6c0f}{539}{2015-08-25 04:05:15}{2015-08-25 04:05:16}{16}{2015-08-25 04:03:56}},NIC Power Restore Trap Received from device: 00:13:50:01:00:ac:6c:0f Reboot Count: 539 NIC timestamp: Aug 25 2015 - 12:05:15 AM EDT Received Timestamp: Aug 25 2015 - 12:05:16 AM EDT Power Restoration Timestamp: Aug 25 2015 - 12:03:56 AM EDT State: 16

@@ -1,0 +1,194 @@
+{
+ "message_time_utc": "2016-01-16T02:50:00Z", 
+ "data": [
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "event_id": 12024, 
+     "timestamp_utc": "2016-01-16T02:00:45Z", 
+     "meter_id": "G0205366820"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:00:46Z", 
+     "meter_id": "G0205366820"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:00:46Z", 
+     "meter_id": "G0205366820"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:00:46Z", 
+     "meter_id": "G0205366820"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:00:46Z", 
+     "meter_id": "G0205366820"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:01:10Z", 
+     "meter_id": "G0205454269"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:01:10Z", 
+     "meter_id": "G0205454269"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:01:10Z", 
+     "meter_id": "G0205454269"
+    }, 
+    {
+     "event_id": 12024, 
+     "timestamp_utc": "2016-01-16T02:01:10Z", 
+     "meter_id": "G0205454269"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:01:10Z", 
+     "meter_id": "G0205454269"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:02:02Z", 
+     "meter_id": "G0205360380"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:02:02Z", 
+     "meter_id": "G0205360380"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:02:02Z", 
+     "meter_id": "G0205360380"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:02:02Z", 
+     "meter_id": "G0205360380"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:02:02Z", 
+     "meter_id": "G0205360380"
+    }, 
+    {
+     "event_id": 12024, 
+     "timestamp_utc": "2016-01-16T02:02:02Z", 
+     "meter_id": "G0205360380"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:02:02Z", 
+     "meter_id": "G0205360380"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:03:33Z", 
+     "meter_id": "G0205097952"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:03:33Z", 
+     "meter_id": "G0205097952"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:03:33Z", 
+     "meter_id": "G0205097952"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:03:33Z", 
+     "meter_id": "G0205097952"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:03:34Z", 
+     "meter_id": "G0205097952"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:03:34Z", 
+     "meter_id": "G0205097952"
+    }, 
+    {
+     "event_id": 12024, 
+     "timestamp_utc": "2016-01-16T02:03:34Z", 
+     "meter_id": "G0205097952"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:03:34Z", 
+     "meter_id": "G0205097952"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:04:37Z", 
+     "meter_id": "G0205106395"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:04:37Z", 
+     "meter_id": "G0205106395"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:04:37Z", 
+     "meter_id": "G0205106395"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:04:37Z", 
+     "meter_id": "G0205106395"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:04:37Z", 
+     "meter_id": "G0205106395"
+    }, 
+    {
+     "event_id": 12024, 
+     "timestamp_utc": "2016-01-16T02:04:37Z", 
+     "meter_id": "G0205106395"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:07:57Z", 
+     "meter_id": "G0205366290"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:07:57Z", 
+     "meter_id": "G0205366290"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:07:57Z", 
+     "meter_id": "G0205366290"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-16T02:07:57Z", 
+     "meter_id": "G0205366290"
+    }, 
+    {
+     "event_id": 12024, 
+     "timestamp_utc": "2016-01-16T02:07:57Z", 
+     "meter_id": "G0205366290"
+    }
+   ]
+  }
+ ], 
+ "message_type": "AMI", 
+ "message_id": "34829e2f-d297-4b64-bbf7-19fc9c6a9610",
+ "start_time_utc": "2016-01-16T13:30:00Z",
+ "end_time_utc": "2016-01-16T18:30:00Z"
+}

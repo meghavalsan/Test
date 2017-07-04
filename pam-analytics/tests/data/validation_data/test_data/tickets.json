@@ -1,0 +1,55 @@
+{
+ "message_time_utc": "2016-01-17T06:00:00Z",
+ "data": [
+  {
+   "feeder_id": "",
+   "time_series": [
+    {
+     "support_code": "68",
+     "irpt_type_code": "TX",
+     "trbl_ticket_id": "4",
+     "cmi": 6617,
+     "dw_ticket_id": "10583633",
+     "repair_action_type": "TMRepairActionTrimTree",
+     "power_off": "2016-01-16T15:25:00Z",
+     "irpt_cause_code": "20",
+     "repair_action_description": "Trim/Remove Tree 6   0% Palms:  R/O",
+     "power_restore": "2016-01-16T13:54:00Z"
+    }]},
+  {
+   "feeder_id": "501762",
+   "time_series": [
+    {
+     "support_code": "60",
+     "irpt_type_code": "TX1",
+     "cmi": 66171,
+     "dw_ticket_id": "10583632",
+     "repair_action_type": "TMRepairActionTrimTre",
+     "power_off": "2016-01-16T05:30:00Z",
+     "irpt_cause_code": "21",
+     "repair_action_description": "Trim/Remove Tree 6   0% Palm:  R/O",
+     "power_restore": "2016-01-16T13:50:00Z"
+    }]},
+  {
+   "feeder_id": "501763",
+   "time_series": [
+    {
+     "support_code": "0",
+     "irpt_type_code": "TX",
+     "trbl_ticket_id": "718",
+     "cmi": 774,
+     "dw_ticket_id": "10583461",
+     "repair_action_type": "TMRepairActionRefuseTransformer",
+     "power_off": "2016-01-16T14:12:00Z",
+     "irpt_cause_code": "190",
+     "repair_action_description": "",
+     "power_restore": "2016-01-17T04:38:00Z"
+    }
+   ]
+  }
+ ],
+ "message_type": "TICKETS",
+ "start_time_utc": "2016-01-16T13:30:00Z",
+ "end_time_utc": "2016-01-16T18:30:00Z",
+ "message_id": "4e3e8d91-7dae-4255-bc0d-372d439c8113"
+}

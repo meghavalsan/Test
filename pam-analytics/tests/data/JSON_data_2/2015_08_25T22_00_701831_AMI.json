@@ -1,0 +1,39 @@
+{
+ "message_time_utc": "2015-08-25T22:50:00Z", 
+ "start_time_utc": "2015-08-25T22:00:00Z", 
+ "data": [
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-25T22:17:01Z", 
+     "meter_id": "G0204005028"
+    }, 
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-25T22:17:01Z", 
+     "meter_id": "G0204005028"
+    }, 
+    {
+     "event_id": "12024", 
+     "timestamp_utc": "2015-08-25T22:17:01Z", 
+     "meter_id": "G0204005028"
+    }, 
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-25T22:17:01Z", 
+     "meter_id": "G0204005028"
+    }, 
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-25T22:17:01Z", 
+     "meter_id": "G0204005028"
+    }
+   ]
+  }
+ ], 
+ "end_time_utc": "2015-08-25T22:30:00Z", 
+ "message_type": "AMI", 
+ "message_id": "1fc24d92-2465-403d-a291-b08b5dd432c8"
+}

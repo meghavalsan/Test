@@ -1,0 +1,18 @@
+env: spark
+master: yarn-client
+settings:
+    spark.yarn.am.memory: 512m
+    spark.yarn.am.cores: 1
+    spark.executor.instances: 3
+    spark.executor.cores: 1
+    spark.executor.memory: 2048m
+    spark.yarn.executor.memoryOverhead: 512
+    spark.rdd.compress: true
+    spark.serializer: org.apache.spark.serializer.KryoSerializer
+
+
+py_files:
+  - /opt/autogrid/configs/logger.yml
+  - /opt/autogrid/configs/cache.yml
+  - /opt/autogrid/configs/rdbms.yml
+  - /opt/autogrid/configs/settings.yml

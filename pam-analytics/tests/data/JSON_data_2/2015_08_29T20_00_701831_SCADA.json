@@ -1,0 +1,42 @@
+{
+ "message_time_utc": "2015-08-29T20:50:00Z", 
+ "start_time_utc": "2015-08-29T20:00:00Z", 
+ "data": [
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "timestamp_utc": "2015-08-29T20:24:42Z", 
+     "value": "ROCK_ISLAND FEEDER 2W66_F1831 BKR OPEN-CLOSED"
+    }, 
+    {
+     "timestamp_utc": "2015-08-29T20:24:48Z", 
+     "value": "ROCK_ISLAND FDRHD F1831 AVLT LIM-1 LOW 109.3 CURRENT VALUE 109.3 FORBDN RANGE IS 90.0 TO 110.0"
+    }, 
+    {
+     "timestamp_utc": "2015-08-29T20:24:48Z", 
+     "value": "ROCK_ISLAND FDRHD F1831 CAMP LIM-1 HIGH 545.2 540.0 [DELAYED-EVENT] DELAY 45.0"
+    }, 
+    {
+     "timestamp_utc": "2015-08-29T20:24:48Z", 
+     "value": "ROCK_ISLAND FDRHD F1831 BAMP LIM-1 HIGH 641.9 540.0 [DELAYED-EVENT] DELAY 45.0"
+    }, 
+    {
+     "timestamp_utc": "2015-08-29T20:24:58Z", 
+     "value": "ROCK_ISLAND FDRHD F1831 AVLT LIMIT RTN 127.4 CURRENT VALUE 127.4 FOB1 LIMIT VALUE 110.0"
+    }, 
+    {
+     "timestamp_utc": "2015-08-29T20:24:58Z", 
+     "value": "ROCK_ISLAND FDRHD F1831 CAMP LIM-1 RTN 231.6 540.0"
+    }, 
+    {
+     "timestamp_utc": "2015-08-29T20:24:58Z", 
+     "value": "ROCK_ISLAND FDRHD F1831 BAMP LIM-1 RTN 265.6 540.0"
+    }
+   ]
+  }
+ ], 
+ "end_time_utc": "2015-08-29T20:30:00Z", 
+ "message_type": "SCADA", 
+ "message_id": "88d91045-72d8-4d64-a30b-483d6d46be2c"
+}

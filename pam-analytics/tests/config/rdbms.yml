@@ -1,0 +1,9 @@
+PAM_TEST:
+  url: mysql://root:root@localhost:3306/PAM_TEST
+  max_overflow: 2
+  pool_size: 1
+  pool_recycle: 3600
+  host: localhost
+  port: 3306
+  username: root
+  password: root

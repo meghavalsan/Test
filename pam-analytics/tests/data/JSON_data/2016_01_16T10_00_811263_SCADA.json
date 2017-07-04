@@ -1,0 +1,90 @@
+{
+ "message_time_utc": "2016-01-16T15:50:00Z", 
+ "data": [
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "timestamp_utc": "2016-01-16T15:12:55Z", 
+     "value": "EUREKA FEEDER 3W133_F11263 BKR OPEN-CLOSED-OPEN"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:12:55Z", 
+     "value": "EUREKA FDRHD F11263 AAMP LIM-1 HIGH 559.0 540.0 [DELAYED-EVENT] DELAY 45.0"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:01Z", 
+     "value": "EUREKA FDRHD F11263 ENGZ DE-ENERGIZED"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:09Z", 
+     "value": "EUREKA FEEDER 3W133_F11263 BKR CLOSED"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:11Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL APH ALARM"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:11Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL FCAM LIM-HIGH 1977.0 600.0"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:11Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL FBAM LIM-HIGH 1958.0 600.0"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:11Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL FAAM LIM-HIGH 1900.0 600.0"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:11Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL CPH ALARM"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:11Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL BPH ALARM"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:15Z", 
+     "value": "EUREKA FDRHD F11263 AAMP LIM-1 RTN 78.0 540.0"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:16Z", 
+     "value": "EUREKA FDRHD F11263 ENGZ ENERGIZED"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:22Z", 
+     "value": "EUREKA FEEDER 3W133_F11263 FEEDER CLOSED, ASR CANCELLED. -by ASR"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:55Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL CPH NORMAL"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:55Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL APH NORMAL"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:55Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL BPH NORMAL"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:55Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL FAAM LIM-RTN 0.0 600.0"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:55Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL FCAM LIM-RTN 0.0 600.0"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T15:13:55Z", 
+     "value": "EUREKA FAULT 3W133_F11263_FL FBAM LIM-RTN 0.0 600.0"
+    }
+   ]
+  }
+ ], 
+ "message_type": "SCADA", 
+ "message_id": "e53ecfb6-ebd0-46a1-b494-3bd6d841987f",
+ "start_time_utc": "2016-01-16T13:30:00Z",
+ "end_time_utc": "2016-01-16T18:30:00Z"
+}

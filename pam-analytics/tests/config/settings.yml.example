@@ -1,0 +1,24 @@
+PAM_TEST:
+  anomaly_calculation_hrs: 8
+  scada_cache_hrs: 6000
+  ami_cache_hrs: 6000
+  edna_cache_hrs: 6000
+  tickets_cache_hrs: 6000
+
+  mysql_burn_in_hrs: 48
+  mysql_evaluation_hrs: 8
+
+  signatures_calculation_hrs: 5
+  processed_anomalies_window_hrs: 24
+  model_file_path: <data_dir>/model_v1.pkl
+
+  api_key: 'API_KEY_STRING'
+  to_email: ['user1 <user1@example.com>']
+  from_email: ['user2 <user2@example.com>']
+
+  scada_mysql_expiry_days: 5200
+  ami_mysql_expiry_days: 5200
+  edna_mysql_expiry_days: 5200
+
+  weekly_report_day_of_week: Sunday
+  weekly_report_historical_data_in_months: 13

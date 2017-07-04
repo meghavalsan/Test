@@ -1,0 +1,161 @@
+{
+ "feeder_id": 809765, 
+ "alert_type": "Red", 
+ "alert_sent_utc": "2017-06-07T15:48:05Z", 
+ "model_version": "1.0", 
+ "alert_time_utc": "2017-06-07T03:12:00Z", 
+ "anomalies": [
+  {
+   "Signal": "SWEETWATER FEEDER 3W22_F9765 BKR OPEN-CLOSED-OPEN", 
+   "DeviceType": "FEEDER", 
+   "DeviceId": "3W22_F9765", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "BKR_CLOSE", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEETWATER FEEDER 3W22_F9765 BKR CLOSED", 
+   "DeviceType": "FEEDER", 
+   "DeviceId": "3W22_F9765", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "BKR_CLOSE", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEETWATER FEEDER 3W22_F9765 BKR OPEN-CLOSED-OPEN", 
+   "DeviceType": "FEEDER", 
+   "DeviceId": "3W22_F9765", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "BKR_OPEN", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEETWATER FEEDER 3W22_F9765 BKR OPEN-CLOSED-OPEN", 
+   "DeviceType": "FEEDER", 
+   "DeviceId": "3W22_F9765", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "BKR_OPEN", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEETWATER FAULT 3W22_F9765_FL CPH ALARM", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W22_F9765_FL", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "FAULT_ALARM", 
+   "DevicePh": "C"
+  }, 
+  {
+   "Signal": "SWEETWATER FAULT 3W22_F9765_FL BPH ALARM", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W22_F9765_FL", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "FAULT_ALARM", 
+   "DevicePh": "B"
+  }, 
+  {
+   "Signal": "SWEETWATER FAULT 3W22_F9765_FL APH ALARM", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W22_F9765_FL", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "FAULT_ALARM", 
+   "DevicePh": "A"
+  }, 
+  {
+   "Signal": "SWEETWATER FAULT 3W22_F9765_FL FCAM LIM-HIGH 3747.5 600.0", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W22_F9765_FL", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "FAULT_CURRENT", 
+   "DevicePh": "C"
+  }, 
+  {
+   "Signal": "SWEETWATER FAULT 3W22_F9765_FL FBAM LIM-HIGH 3778.0 600.0", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W22_F9765_FL", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "FAULT_CURRENT", 
+   "DevicePh": "B"
+  }, 
+  {
+   "Signal": "SWEETWATER FAULT 3W22_F9765_FL FAAM LIM-HIGH 4213.6 600.0", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W22_F9765_FL", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "FAULT_CURRENT", 
+   "DevicePh": "A"
+  }, 
+  {
+   "Signal": "SWEETWATER FDRHD F9765 ENGZ DE-ENERGIZED", 
+   "DeviceType": "FDRHD", 
+   "DeviceId": "F9765", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "FDRHD_DE_ENERGIZED", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEETWATER FDRHD F9765 ENGZ ENERGIZED", 
+   "DeviceType": "FDRHD", 
+   "DeviceId": "F9765", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "FDRHD_ENERGIZED", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "LAST GASPS / POWER DOWNS AT 89.0% OF FEEDER CUSTOMERS (2529 METERS)", 
+   "DeviceType": "AMI", 
+   "DeviceId": "-", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "LG_PD_10", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEETWATER.FDR.809765_3W22.PF.C_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W22", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "PF_SPIKES", 
+   "DevicePh": "C"
+  }, 
+  {
+   "Signal": "SWEETWATER.FDR.809765_3W22.PF.B_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W22", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "PF_SPIKES", 
+   "DevicePh": "B"
+  }, 
+  {
+   "Signal": "SWEETWATER.FDR.809765_3W22.I.A_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W22", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "ZERO_CURRENT", 
+   "DevicePh": "A"
+  }, 
+  {
+   "Signal": "SWEETWATER.FDR.809765_3W22.V.C_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W22", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "ZERO_VOLTAGE", 
+   "DevicePh": "C"
+  }, 
+  {
+   "Signal": "SWEETWATER.FDR.809765_3W22.V.B_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W22", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "ZERO_VOLTAGE", 
+   "DevicePh": "B"
+  }, 
+  {
+   "Signal": "SWEETWATER.FDR.809765_3W22.V.A_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W22", 
+   "Time": "2017-06-07T03:12:00Z", 
+   "Anomaly": "ZERO_VOLTAGE", 
+   "DevicePh": "A"
+  }
+ ]
+}

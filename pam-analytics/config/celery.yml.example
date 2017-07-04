@@ -1,0 +1,5 @@
+broker_url: amqp://guest:guest@127.0.0.1:5672//
+schedule:
+  - name: task_evaluation
+    task: autogrid.pam.jobs.tasks.task_evaluation
+    seconds: 5

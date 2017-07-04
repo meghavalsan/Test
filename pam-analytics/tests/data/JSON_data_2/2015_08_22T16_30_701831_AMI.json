@@ -1,0 +1,19 @@
+{
+ "message_time_utc": "2015-08-22T17:20:00Z", 
+ "start_time_utc": "2015-08-22T16:30:00Z", 
+ "data": [
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-22T16:40:04Z", 
+     "meter_id": "G0204093167"
+    }
+   ]
+  }
+ ], 
+ "end_time_utc": "2015-08-22T17:00:00Z", 
+ "message_type": "AMI", 
+ "message_id": "f18fa92a-c07e-4e8c-b4b2-3b94aac3ecb5"
+}

@@ -1,0 +1,417 @@
+{
+ "message_time_utc": "2015-08-28T11:20:00Z", 
+ "start_time_utc": "2015-08-28T10:30:00Z", 
+ "data": [
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:32:13Z", 
+     "value_string": "191.10889", 
+     "value": 191.10889
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:33:24Z", 
+     "value_string": "196.9712", 
+     "value": 196.97120000000001
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:34:25Z", 
+     "value_string": "191.69521", 
+     "value": 191.69521
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:34:45Z", 
+     "value_string": "196.9712", 
+     "value": 196.97120000000001
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:36:36Z", 
+     "value_string": "190.52271", 
+     "value": 190.52271000000002
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:37:07Z", 
+     "value_string": "196.3849", 
+     "value": 196.38489999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "198.72979", 
+     "value": 198.72978999999998
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:45:03Z", 
+     "value_string": "201.66099", 
+     "value": 201.66099
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:46:54Z", 
+     "value_string": "194.04011", 
+     "value": 194.04011
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:51:58Z", 
+     "value_string": "200.48849", 
+     "value": 200.48848999999998
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:52:39Z", 
+     "value_string": "195.2125", 
+     "value": 195.21250000000001
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "192.28141", 
+     "value": 192.28141000000002
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:32Z", 
+     "value_string": "189.3503", 
+     "value": 189.3503
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.I.A_PH"
+  }, 
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:32:43Z", 
+     "value_string": "205.17829", 
+     "value": 205.17829
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:33:34Z", 
+     "value_string": "212.21299", 
+     "value": 212.21298999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:35:46Z", 
+     "value_string": "218.07519", 
+     "value": 218.07518999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:09Z", 
+     "value_string": "211.0405", 
+     "value": 211.04050000000001
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:29Z", 
+     "value_string": "216.3166", 
+     "value": 216.31659999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "216.3166", 
+     "value": 216.31659999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:43:11Z", 
+     "value_string": "209.86811", 
+     "value": 209.86811
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:47:45Z", 
+     "value_string": "204.59211", 
+     "value": 204.59211000000002
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:48:36Z", 
+     "value_string": "199.31611", 
+     "value": 199.31611000000001
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:51:28Z", 
+     "value_string": "194.04011", 
+     "value": 194.04011
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:51:58Z", 
+     "value_string": "199.3161", 
+     "value": 199.31610000000001
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "201.07469", 
+     "value": 201.07469
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.I.B_PH"
+  }, 
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:36:06Z", 
+     "value_string": "185.2467", 
+     "value": 185.2467
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:37:07Z", 
+     "value_string": "190.52269", 
+     "value": 190.52268999999998
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:37:57Z", 
+     "value_string": "185.2467", 
+     "value": 185.2467
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "188.1778", 
+     "value": 188.17779999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:45:03Z", 
+     "value_string": "190.52269", 
+     "value": 190.52268999999998
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:48:25Z", 
+     "value_string": "195.79869", 
+     "value": 195.79868999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:52:08Z", 
+     "value_string": "188.76401", 
+     "value": 188.76401000000001
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:54:41Z", 
+     "value_string": "183.48801", 
+     "value": 183.48801
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:11Z", 
+     "value_string": "177.62581", 
+     "value": 177.62581
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "174.10841", 
+     "value": 174.10841000000002
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:42Z", 
+     "value_string": "171.7635", 
+     "value": 171.76349999999999
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.I.C_PH"
+  }, 
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "1.323742", 
+     "value": 1.323742
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "1.206448", 
+     "value": 1.206448
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.MVAR"
+  }, 
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "4.557694", 
+     "value": 4.5576940000000006
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "4.306351", 
+     "value": 4.3063510000000003
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.MW"
+  }, 
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "0.9592086", 
+     "value": 0.95920859999999997
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "0.9635076", 
+     "value": 0.96350759999999991
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.PF.A_PH"
+  }, 
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:35:46Z", 
+     "value_string": "0.95920857", 
+     "value": 0.95920857000000004
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "0.95920859", 
+     "value": 0.95920859000000003
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "0.96189545", 
+     "value": 0.96189544999999999
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.PF.B_PH"
+  }, 
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "0.95974586", 
+     "value": 0.95974585999999995
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "0.96028326", 
+     "value": 0.96028325999999997
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.PF.C_PH"
+  }, 
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "3.277968", 
+     "value": 3.277968
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "3.492916", 
+     "value": 3.4929160000000001
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.THD_current"
+  }, 
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "123.8714", 
+     "value": 123.87139999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:48:56Z", 
+     "value_string": "124.506", 
+     "value": 124.506
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "124.3791", 
+     "value": 124.37909999999999
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.V.A_PH"
+  }, 
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "123.9983", 
+     "value": 123.9983
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "124.2522", 
+     "value": 124.2522
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.V.B_PH"
+  }, 
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:40:35Z", 
+     "value_string": "124.2522", 
+     "value": 124.2522
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2015-08-28T10:56:28Z", 
+     "value_string": "124.63289", 
+     "value": 124.63288999999999
+    }
+   ], 
+   "extended_id": "ROCK_ISLAND.FDR.701831_2W66.V.C_PH"
+  }
+ ], 
+ "end_time_utc": "2015-08-28T11:00:00Z", 
+ "message_type": "EDNA", 
+ "message_id": "5e1cdd89-fa5a-47f1-b06f-02c07bb00233"
+}

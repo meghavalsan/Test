@@ -1,0 +1,185 @@
+{
+ "feeder_id": 409363, 
+ "alert_type": "Orange", 
+ "alert_sent_utc": "2017-05-29T16:55:51Z", 
+ "model_version": "1.0", 
+ "alert_time_utc": "2017-05-29T10:25:00Z", 
+ "anomalies": [
+  {
+   "Signal": "SWEATT FEEDER 3W188_F9363 BKR OPEN-CLOSED-OPEN", 
+   "DeviceType": "FEEDER", 
+   "DeviceId": "3W188_F9363", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "BKR_CLOSE", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEATT FEEDER 3W188_F9363 BKR CLOSED", 
+   "DeviceType": "FEEDER", 
+   "DeviceId": "3W188_F9363", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "BKR_CLOSE", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEATT FEEDER 3W188_F9363 BKR OPEN-CLOSED-OPEN", 
+   "DeviceType": "FEEDER", 
+   "DeviceId": "3W188_F9363", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "BKR_OPEN", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEATT FEEDER 3W188_F9363 BKR OPEN-CLOSED-OPEN", 
+   "DeviceType": "FEEDER", 
+   "DeviceId": "3W188_F9363", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "BKR_OPEN", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEATT FAULT 3W188_F9363_FL GND ALARM", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W188_F9363_FL", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "FAULT_ALARM", 
+   "DevicePh": "G"
+  }, 
+  {
+   "Signal": "SWEATT FAULT 3W188_F9363_FL CPH ALARM", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W188_F9363_FL", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "FAULT_ALARM", 
+   "DevicePh": "C"
+  }, 
+  {
+   "Signal": "SWEATT FAULT 3W188_F9363_FL BPH ALARM", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W188_F9363_FL", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "FAULT_ALARM", 
+   "DevicePh": "B"
+  }, 
+  {
+   "Signal": "SWEATT FAULT 3W188_F9363_FL FGAM LIM-HIGH 1090.0 600.0", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W188_F9363_FL", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "FAULT_CURRENT", 
+   "DevicePh": "G"
+  }, 
+  {
+   "Signal": "SWEATT FAULT 3W188_F9363_FL FCAM LIM-HIGH 1677.0 600.0", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W188_F9363_FL", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "FAULT_CURRENT", 
+   "DevicePh": "C"
+  }, 
+  {
+   "Signal": "SWEATT FAULT 3W188_F9363_FL FBAM LIM-HIGH 2142.0 600.0", 
+   "DeviceType": "FAULT", 
+   "DeviceId": "3W188_F9363_FL", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "FAULT_CURRENT", 
+   "DevicePh": "B"
+  }, 
+  {
+   "Signal": "SWEATT FDRHD F9363 ENGZ DE-ENERGIZED", 
+   "DeviceType": "FDRHD", 
+   "DeviceId": "F9363", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "FDRHD_DE_ENERGIZED", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEATT FDRHD F9363 ENGZ ENERGIZED", 
+   "DeviceType": "FDRHD", 
+   "DeviceId": "F9363", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "FDRHD_ENERGIZED", 
+   "DevicePh": "-"
+  }, 
+  {
+   "Signal": "SWEATT.FDR.409363_3W188.PF.B_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W188", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "PF_SPIKES", 
+   "DevicePh": "B"
+  }, 
+  {
+   "Signal": "SWEATT.FDR.409363_3W188.I.C_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W188", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "ZERO_CURRENT", 
+   "DevicePh": "C"
+  }, 
+  {
+   "Signal": "SWEATT.FDR.409363_3W188.I.B_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W188", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "ZERO_CURRENT", 
+   "DevicePh": "B"
+  }, 
+  {
+   "Signal": "SWEATT.FDR.409363_3W188.I.A_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W188", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "ZERO_CURRENT", 
+   "DevicePh": "A"
+  }, 
+  {
+   "Signal": "SWEATT.FDR.409363_3W188.MW.C_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W188", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "ZERO_POWER", 
+   "DevicePh": "C"
+  }, 
+  {
+   "Signal": "SWEATT.FDR.409363_3W188.MW.B_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W188", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "ZERO_POWER", 
+   "DevicePh": "B"
+  }, 
+  {
+   "Signal": "SWEATT.FDR.409363_3W188.MW.A_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W188", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "ZERO_POWER", 
+   "DevicePh": "A"
+  }, 
+  {
+   "Signal": "SWEATT.FDR.409363_3W188.V.C_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W188", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "ZERO_VOLTAGE", 
+   "DevicePh": "C"
+  }, 
+  {
+   "Signal": "SWEATT.FDR.409363_3W188.V.B_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W188", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "ZERO_VOLTAGE", 
+   "DevicePh": "B"
+  }, 
+  {
+   "Signal": "SWEATT.FDR.409363_3W188.V.A_PH", 
+   "DeviceType": "PHASER", 
+   "DeviceId": "3W188", 
+   "Time": "2017-05-29T10:25:00Z", 
+   "Anomaly": "ZERO_VOLTAGE", 
+   "DevicePh": "A"
+  }
+ ]
+}

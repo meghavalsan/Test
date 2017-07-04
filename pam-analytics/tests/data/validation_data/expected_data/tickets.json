@@ -1,0 +1,26 @@
+{
+   "message_time_utc":"2016-01-17T06:00:00Z",
+   "data":[
+      {
+         "feeder_id":"501763",
+         "time_series":[
+            {
+               "trbl_ticket_id":"718",
+               "power_restore":"2016-01-17T04:38:00Z",
+               "cmi":774,
+               "power_off":"2016-01-16T14:12:00Z",
+               "repair_action_type":"TMRepairActionRefuseTransformer",
+               "irpt_type_code":"TX",
+               "support_code":"0",
+               "dw_ticket_id":"10583461",
+               "irpt_cause_code":"190",
+               "repair_action_description":""
+            }
+         ]
+      }
+   ],
+   "end_time_utc":"2016-01-16T18:30:00Z",
+   "start_time_utc":"2016-01-16T13:30:00Z",
+   "message_type":"TICKETS",
+   "message_id":"4e3e8d91-7dae-4255-bc0d-372d439c8113"
+}

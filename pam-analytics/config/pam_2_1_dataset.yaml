@@ -1,0 +1,147 @@
+# Each element of the yaml list represents one column in the resulting dataframe
+#
+# name: the column name to use for the output Pandas dataframe
+#
+# lookup: the name to lookup in the anomaly dataframe, it should be included in
+#         the right hand side of the anomaly_map.yaml file.
+#
+# type: the type of column, available options are:
+#       - 'trigger': an anomaly occurance will create a new row in the dataset.
+#                    For any given row, the value for this column will be the
+#                    count of the occurances within hte window.
+#       - 'flag': an anomaly occurance will NOT create a new row in the dataset.
+#                 For any given row, the value for this column will be boolean
+#                 based on the presence of this anomaly within hte window.
+#       - 'background': an anomaly occurance will NOT create a new row in the
+#                       dataset. For any given row, the value for this column
+#                       will be the count of the occurances within hte window.
+#       - 'cluster': the number of "groups" of anomalies in a window that are
+#                    separated by at least an hour.
+#       - 'special': this column type has hard-coded logic in the codebase.
+#       - 'duration': the time since an event occurred (in years). The value
+#                     of `lookup` should be in the feeder_df dataframe.
+#       - 'constant': a cross-sectional numerical value. The value of `lookup`
+#                     should be in the feeder_df dataframe.
+#
+# min_lag / max_lag : the window in hours. When a 'trigger' type anomaly occurs,
+#                     a new row is created in the dataset. Then for each column
+#                     the count or presence of each anomaly type is checked.
+#                     Only specified for 'trigger', 'flag' and 'background'
+#                     types. Optionally for 'special' column types if needed.
+#
+# keep_all : whether to drop duplicate anomalies occurring in the same minute.
+
+- name: BKR_CLOSE_24
+  lookup: BKR_CLOSE
+  type: background
+  min_lag: 0
+  max_lag: 24
+  keep_all: True
+- name: BKR_CLUSTER_24
+  lookup: BKR_OPEN
+  type: cluster
+  min_lag: 0
+  max_lag: 24
+- name: BKR_CLUSTER_168
+  lookup: BKR_OPEN
+  type: cluster
+  min_lag: 0
+  max_lag: 168
+- name: BKR_OPEN_24
+  lookup: BKR_OPEN
+  type: background
+  min_lag: 0
+  max_lag: 24
+  keep_all: True
+- name: SUBSTATION_FAULT_24
+  lookup: SUBSTATION_FAULT
+  type: trigger
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: SUBSTATION_TEMP_FAULT_24
+  lookup: SUBSTATION_TEMP_FAULT
+  type: trigger
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: FEEDER_FAULT_24
+  lookup: FEEDER_FAULT
+  type: trigger
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: FEEDER_TEMP_FAULT_24
+  lookup: FEEDER_TEMP_FAULT
+  type: trigger
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: CURRENT_LIMIT_24
+  lookup: CURRENT_LIMIT
+  type: flag
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: HARDENING
+  type: duration
+- name: HAS_INDUSTRIAL
+  type: constant
+- name: HIGH_VOLTAGE_24
+  lookup: HIGH_VOLTAGE
+  type: flag
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: INTELI_HIGH_VOLTAGE_24
+  lookup: INTELI_HIGH_VOLTAGE
+  type: flag
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: KV
+  type: constant
+- name: LG_PD_10_24
+  lookup: LG_PD_10
+  type: background
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: PCT_UG
+  type: constant
+- name: PF_SPIKES_24
+  lookup: PF_SPIKES
+  type: background
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: REGULATOR_BLOCK_24
+  lookup: REGULATOR_BLOCK
+  type: background
+  min_lag: 0
+  max_lag: 24
+  keep_all: True
+- name: THD_SPIKES_24
+  lookup: THD_SPIKES
+  type: background
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: VOLTAGE_DROP_24
+  lookup: VOLTAGE_DROP
+  type: flag
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: INTELI_VOLTAGE_DROP_24
+  lookup: INTELI_VOLTAGE_DROP
+  type: flag
+  min_lag: 0
+  max_lag: 24
+  keep_all: False
+- name: ZERO_RULE_24
+  lookup: ZERO_RULE
+  type: background
+  min_lag: 0
+  max_lag: 24
+  keep_all: False

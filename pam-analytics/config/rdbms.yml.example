@@ -1,0 +1,8 @@
+PAM:
+    url: mysql://root:root@localhost:3306/pam_dev_db
+    max_overflow: 2
+    pool_size: 1
+    pool_recycle: 3600
+    host: localhost
+    username: ag_dev_pam
+    password: root

@@ -1,0 +1,33 @@
+{
+ "message_time_utc": "2016-01-16T15:50:00Z",
+ "data": [
+  {
+   "feeder_id": "811263",
+   "time_series": [
+    {
+     "timestamp_utc": "2016-01-16T15:13:55Z",
+     "value": "EUREKA FEEDER 3W133_F11263 BKR OPEN-CLOSED-OPEN"
+    },
+    {
+     "timestamp_utc": "2015-01-16T15:12:55Z",
+     "value": "EUREKA FDRHD F11263 AAMP LIM-1 HIGH 559.0 540.0 [DELAYED-EVENT] DELAY 45.0"
+    },
+    {
+     "timestamp_utc": "2016-01-16T15:12:55Z",
+     "value": "EUREKA FDRHD F11263 ENGZ DE-ENERGIZED"
+    },
+    {
+     "value": "EUREKA FAULT 3W133_F11263_FL FBAM LIM-RTN 0.0 600.0"
+    },
+    {
+     "timestamp_utc": "2015-01-16T15:13:58Z",
+     "value": "EUREKA FAULT 3W133_F11263_FL FBAM LIM-RTN 0.0 600.0"
+    }
+   ]
+  }
+ ],
+ "message_type": "SCADA",
+ "message_id": "e53ecfb6-ebd0-46a1-b494-3bd6d841987f",
+ "start_time_utc": "2016-01-16T13:30:00Z",
+ "end_time_utc": "2016-01-16T18:30:00Z"
+}

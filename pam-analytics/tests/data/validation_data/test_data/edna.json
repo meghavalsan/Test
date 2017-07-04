@@ -1,0 +1,32 @@
+{
+ "message_time_utc": "2016-01-15T07:50:00Z",
+ "start_time_utc": "2016-01-15T07:00:00Z",
+ "data": [
+  {
+   "feeder_id": "811263",
+   "time_series": [
+    {
+     "status": "OK",
+     "timestamp_utc": "2016-01-15T07:00:12Z",
+     "value_string": "69",
+     "value": 69.0
+    },
+    {
+     "status": "OK",
+     "value_string": "66",
+     "value": 66.0
+    },
+    {
+     "status": "OK",
+     "timestamp_utc": "2015-01-15T07:16:06Z",
+     "value_string": "66",
+     "value": 66.0
+    }
+   ],
+   "extended_id": "EUREKA.FDR.811263_3W133.I.A_PH"
+  }
+ ],
+ "end_time_utc": "2016-01-15T07:30:00Z",
+ "message_type": "EDNA",
+ "message_id": "8b51721f-f351-4747-b519-6c07d1d85741"
+}

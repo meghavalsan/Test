@@ -1,0 +1,24 @@
+{
+ "message_time_utc": "2016-01-16T18:50:00Z", 
+ "data": [
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "timestamp_utc": "2016-01-16T18:02:54Z", 
+     "value": "EUREKA FDRHD F11263 REGU NORMAL"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T18:18:06Z", 
+     "value": "EUREKA.F11263.SWT.105590537 34915"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T18:18:14Z", 
+     "value": "EUREKA.F11263.SWT.105590454 34919"
+    }
+   ]
+  }
+ ], 
+ "message_type": "SCADA", 
+ "message_id": "a9180ca0-74c6-4cc3-8284-15cf4dec1aae"
+}

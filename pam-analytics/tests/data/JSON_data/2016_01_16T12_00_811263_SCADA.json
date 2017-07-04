@@ -1,0 +1,24 @@
+{
+ "message_time_utc": "2016-01-16T17:50:00Z", 
+ "data": [
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "timestamp_utc": "2016-01-16T17:18:02Z", 
+     "value": "EUREKA FDRHD F11263 REGU BLOCK CTRL ISSUED BY EXM0O3G"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T17:18:14Z", 
+     "value": "EUREKA FDRHD F11263 REGU BLOCK By EXM0O3G"
+    }, 
+    {
+     "timestamp_utc": "2016-01-16T17:20:32Z", 
+     "value": "EUREKA FEEDER 3W133_F11263 ASR HAS BEEN DISABLED BY EXM0O3G"
+    }
+   ]
+  }
+ ], 
+ "message_type": "SCADA", 
+ "message_id": "4367641d-c0a5-453b-a1ba-f2a4a566fd52"
+}

@@ -1,0 +1,19 @@
+{
+ "message_time_utc": "TIME",
+ "data": [
+  {
+   "feeder_id": "811263",
+   "time_series": [
+    {
+     "event_id": 12024,
+     "timestamp_utc": "TIME",
+     "meter_id": "G0201002190"
+    }
+   ]
+  }
+ ],
+ "message_type": "AMI",
+ "message_id": "4e19cc6e-67fc-429c-bd06-511049f40b1b",
+ "start_time_utc": "TIME",
+ "end_time_utc": "TIME"
+}

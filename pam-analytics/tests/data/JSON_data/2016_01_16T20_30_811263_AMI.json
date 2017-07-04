@@ -1,0 +1,42 @@
+{
+ "message_time_utc": "2016-01-17T02:20:00Z", 
+ "data": [
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-17T01:44:31Z", 
+     "meter_id": "G0205365521"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-17T01:44:31Z", 
+     "meter_id": "G0205365521"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-17T01:44:32Z", 
+     "meter_id": "G0205365521"
+    }, 
+    {
+     "event_id": 12024, 
+     "timestamp_utc": "2016-01-17T01:44:32Z", 
+     "meter_id": "G0205365521"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-17T01:44:32Z", 
+     "meter_id": "G0205365521"
+    }, 
+    {
+     "event_id": 12007, 
+     "timestamp_utc": "2016-01-17T01:44:32Z", 
+     "meter_id": "G0205365521"
+    }
+   ]
+  }
+ ], 
+ "message_type": "AMI", 
+ "message_id": "a583608a-491e-4d74-87ee-f2d971feb6bd"
+}

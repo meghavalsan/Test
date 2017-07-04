@@ -1,0 +1,26 @@
+{
+ "message_time_utc": "2015-08-26T18:50:00Z", 
+ "start_time_utc": "2015-08-26T18:00:00Z", 
+ "data": [
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "timestamp_utc": "2015-08-26T18:05:50Z", 
+     "value": "ROCK_ISLAND FEEDER 2W66_F1831 BKR OPEN-CLOSED"
+    }, 
+    {
+     "timestamp_utc": "2015-08-26T18:07:25Z", 
+     "value": "ROCK_ISLAND FEEDER 2W66_F1831 BKR OPEN"
+    }, 
+    {
+     "timestamp_utc": "2015-08-26T18:07:27Z", 
+     "value": "ROCK_ISLAND FEEDER 2W66_F1831 BKR CLOSED"
+    }
+   ]
+  }
+ ], 
+ "end_time_utc": "2015-08-26T18:30:00Z", 
+ "message_type": "SCADA", 
+ "message_id": "a5c3f8e8-a141-4c44-9b44-927e8a7e379a"
+}

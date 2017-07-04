@@ -1,0 +1,4 @@
+edp-core==3.6rc4-test
+scikit-learn==0.16.1
+iso8601==0.1.11
+sendgrid==2.2.1

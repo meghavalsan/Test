@@ -1,0 +1,79 @@
+{
+ "message_time_utc": "2015-08-24T11:50:00Z", 
+ "start_time_utc": "2015-08-24T11:00:00Z", 
+ "data": [
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-24T11:01:16Z", 
+     "meter_id": "G0209029605"
+    }, 
+    {
+     "event_id": "12024", 
+     "timestamp_utc": "2015-08-24T11:01:16Z", 
+     "meter_id": "G0209029605"
+    }, 
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-24T11:01:16Z", 
+     "meter_id": "G0209029605"
+    }, 
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-24T11:01:16Z", 
+     "meter_id": "G0203000973"
+    }, 
+    {
+     "event_id": "12024", 
+     "timestamp_utc": "2015-08-24T11:01:16Z", 
+     "meter_id": "G0203000973"
+    }, 
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-24T11:01:16Z", 
+     "meter_id": "G0203000973"
+    }, 
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-24T11:04:40Z", 
+     "meter_id": "G0209029605"
+    }, 
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-24T11:04:40Z", 
+     "meter_id": "G0209029605"
+    }, 
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-24T11:04:40Z", 
+     "meter_id": "G0209029605"
+    }, 
+    {
+     "event_id": "12024", 
+     "timestamp_utc": "2015-08-24T11:04:40Z", 
+     "meter_id": "G0209029605"
+    }, 
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-24T11:04:40Z", 
+     "meter_id": "G0209029605"
+    }, 
+    {
+     "event_id": "12007", 
+     "timestamp_utc": "2015-08-24T11:04:40Z", 
+     "meter_id": "G0209029605"
+    }, 
+    {
+     "event_id": "12024", 
+     "timestamp_utc": "2015-08-24T11:04:54Z", 
+     "meter_id": "G0203000973"
+    }
+   ]
+  }
+ ], 
+ "end_time_utc": "2015-08-24T11:30:00Z", 
+ "message_type": "AMI", 
+ "message_id": "475d2402-7a84-4272-8417-16306ce38621"
+}

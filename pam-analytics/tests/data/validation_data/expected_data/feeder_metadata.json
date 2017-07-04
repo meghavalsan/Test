@@ -1,0 +1,38 @@
+{
+  "message_time_utc": "2014-01-01T12:50:00Z",
+  "start_time_utc": "2014-01-01T12:00:00Z",
+  "data": [
+   {
+    "feeder_id": "500333",
+    "industrial": 4,
+    "capbank": 4,
+    "county": "Sarasota",
+    "1ph_ocr": 0,
+    "type": "Hybrid",
+    "hardening": "2008-04-07",
+    "area": "MS",
+    "fdr_ug": 0.2,
+    "cemm35_feeder": false,
+    "lat_ug": 2.2,
+    "afs": 0,
+    "pole_count": 149.366,
+    "customers": 467,
+    "relay": "SEL251",
+    "commercial": 224,
+    "fci": 0,
+    "substation": "VENICE",
+    "lat_oh": 2.3,
+    "afs_scheme": "None",
+    "3ph_ocr": 0,
+    "region": "WEST",
+    "install_date": "1971-03-03",
+    "4n_feeder": false,
+    "fdr_oh": 2.4,
+    "kv": "13.2",
+    "residential": 239
+   }
+  ],
+  "end_time_utc": "2014-01-01T12:00:00Z",
+  "message_type": "FEEDER_METADATA",
+  "message_id": "f3bb92a1-0af7-47f3-a516-298f75098374"
+}

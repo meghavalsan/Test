@@ -1,0 +1,28 @@
+machine:
+  python:
+    version: 2.7.8
+  environment:
+    COVERALLS_REPO_TOKEN: 9anPzwZ0tZgP99kWeXeNnAqsycRORjV4o
+
+dependencies:
+  pre:
+    - pip install --upgrade setuptools
+    - pip install --upgrade pip
+    - pip install --upgrade edp-core --extra-index-url https://pypi.fury.io/o7L8pPPHY7cvDroVBd1h//autogrid
+    - pip install -r $VIRTUAL_ENV/ag_config/edp-core/requirements.txt --extra-index-url https://pypi.fury.io/o7L8pPPHY7cvDroVBd1h//autogrid
+    - pip install --upgrade edp-analytics --extra-index-url https://pypi.fury.io/o7L8pPPHY7cvDroVBd1h//autogrid
+    - pip install -r $VIRTUAL_ENV/ag_config/edp-analytics/requirements.txt --extra-index-url https://pypi.fury.io/o7L8pPPHY7cvDroVBd1h//autogrid
+    - pip install -r python/requirements.txt --extra-index-url https://pypi.fury.io/o7L8pPPHY7cvDroVBd1h//autogrid
+    - pip install --upgrade pytest
+    - pip install --upgrade pytest-cov
+    - pip install --upgrade coveralls
+    - sudo mkdir /opt/autogrid
+    - sudo mkdir /opt/autogrid/logs
+    - sudo chmod -R 777 /opt/autogrid/logs
+
+test:
+  override:
+    - cd python && py.test -s --cov=autogrid.pam --cov-config .coveragerc
+
+  post:
+    - cd python && coveralls

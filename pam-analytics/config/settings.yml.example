@@ -1,0 +1,37 @@
+PAM:
+  anomaly_calculation_hrs: 8
+  scada_cache_hrs: 48
+  ami_cache_hrs: 48
+  edna_cache_hrs: 48
+  tickets_cache_hrs: 48
+
+  mysql_burn_in_hrs: 48
+  mysql_evaluation_hrs: 8
+
+  lock_expire_time_in_seconds: 1800
+
+  signatures_calculation_hrs: 5
+  processed_anomalies_window_hrs: 24
+  model_file_path: /opt/autogrid/data/PAM/model_v1.pkl
+
+  to_email:
+    - 'user1 <user1@example.com>'
+    - 'user2 <user2@example.com>'
+    - 'user3 <user3@example.com>'
+  from_email: ['user2 <user2@example.com>']
+  email_method: 'sendgrid'
+  api_key: 'API_KEY_STRING'
+  email_server: 'email.fpl.com'
+  email_port: 25
+
+  kafka_outgoing_topic: kafka_topic
+  kafka_outgoing_topic_key: kafka_key
+
+  scada_mysql_expiry_days: 15
+  ami_mysql_expiry_days: 15
+  edna_mysql_expiry_days: 15
+
+  weekly_report_day_of_week: Sunday
+  weekly_report_historical_data_in_months: 13
+
+  DATABASE_FOR_SPARK: 'REDIS'

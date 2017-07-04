@@ -1,0 +1,705 @@
+{
+ "message_time_utc": "2016-01-16T18:20:00Z", 
+ "start_time_utc": "2016-01-16T17:30:00Z", 
+ "data": [
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:30:33Z", 
+     "value_string": "99", 
+     "value": 99.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:31:33Z", 
+     "value_string": "93", 
+     "value": 93.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:31:54Z", 
+     "value_string": "72", 
+     "value": 72.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:52Z", 
+     "value_string": "78", 
+     "value": 78.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "78", 
+     "value": 78.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:36:13Z", 
+     "value_string": "72", 
+     "value": 72.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:36:54Z", 
+     "value_string": "78", 
+     "value": 78.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:37:54Z", 
+     "value_string": "72", 
+     "value": 72.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:38:55Z", 
+     "value_string": "78", 
+     "value": 78.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:40:13Z", 
+     "value_string": "72", 
+     "value": 72.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:40:53Z", 
+     "value_string": "78", 
+     "value": 78.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:44:32Z", 
+     "value_string": "43", 
+     "value": 43.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:48:35Z", 
+     "value_string": "87", 
+     "value": 87.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:48:55Z", 
+     "value_string": "81", 
+     "value": 81.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:49:53Z", 
+     "value_string": "69", 
+     "value": 69.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:13Z", 
+     "value_string": "45", 
+     "value": 45.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:53Z", 
+     "value_string": "39", 
+     "value": 39.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:52:14Z", 
+     "value_string": "46", 
+     "value": 46.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:52:54Z", 
+     "value_string": "40", 
+     "value": 40.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:58:55Z", 
+     "value_string": "46", 
+     "value": 46.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:59:12Z", 
+     "value_string": "40", 
+     "value": 40.0
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.I.A_PH"
+  }, 
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:31:54Z", 
+     "value_string": "93", 
+     "value": 93.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:32:54Z", 
+     "value_string": "87", 
+     "value": 87.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:33:55Z", 
+     "value_string": "94", 
+     "value": 94.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:32Z", 
+     "value_string": "88", 
+     "value": 88.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:53Z", 
+     "value_string": "94", 
+     "value": 94.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "94", 
+     "value": 94.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:38:55Z", 
+     "value_string": "100", 
+     "value": 100.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:39:12Z", 
+     "value_string": "94", 
+     "value": 94.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:41:13Z", 
+     "value_string": "99", 
+     "value": 99.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:42:14Z", 
+     "value_string": "94", 
+     "value": 94.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:44:53Z", 
+     "value_string": "87", 
+     "value": 87.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:45:13Z", 
+     "value_string": "60", 
+     "value": 60.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:45:33Z", 
+     "value_string": "54", 
+     "value": 54.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:47:54Z", 
+     "value_string": "83", 
+     "value": 83.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:48:14Z", 
+     "value_string": "89", 
+     "value": 89.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:48:35Z", 
+     "value_string": "96", 
+     "value": 96.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:49:32Z", 
+     "value_string": "84", 
+     "value": 84.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:49:53Z", 
+     "value_string": "41", 
+     "value": 41.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:49Z", 
+     "value_string": "41", 
+     "value": 41.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:54:12Z", 
+     "value_string": "46", 
+     "value": 46.0
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.I.B_PH"
+  }, 
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:31:13Z", 
+     "value_string": "105", 
+     "value": 105.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:31:34Z", 
+     "value_string": "111", 
+     "value": 111.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:31:54Z", 
+     "value_string": "79", 
+     "value": 79.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:32:54Z", 
+     "value_string": "73", 
+     "value": 73.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:33:35Z", 
+     "value_string": "79", 
+     "value": 79.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:33:55Z", 
+     "value_string": "73", 
+     "value": 73.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "71", 
+     "value": 71.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:37:14Z", 
+     "value_string": "79", 
+     "value": 79.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:37:34Z", 
+     "value_string": "73", 
+     "value": 73.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:41:34Z", 
+     "value_string": "79", 
+     "value": 79.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:43:15Z", 
+     "value_string": "73", 
+     "value": 73.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:43:35Z", 
+     "value_string": "79", 
+     "value": 79.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:45:13Z", 
+     "value_string": "73", 
+     "value": 73.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:45:53Z", 
+     "value_string": "67", 
+     "value": 67.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:47:34Z", 
+     "value_string": "91", 
+     "value": 91.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:47:54Z", 
+     "value_string": "100", 
+     "value": 100.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:48:35Z", 
+     "value_string": "108", 
+     "value": 108.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:48:55Z", 
+     "value_string": "102", 
+     "value": 102.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:49:33Z", 
+     "value_string": "37", 
+     "value": 37.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:49Z", 
+     "value_string": "37", 
+     "value": 37.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:54:12Z", 
+     "value_string": "44", 
+     "value": 44.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:54:53Z", 
+     "value_string": "38", 
+     "value": 38.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:58:15Z", 
+     "value_string": "44", 
+     "value": 44.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:58:35Z", 
+     "value_string": "37", 
+     "value": 37.0
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.I.C_PH"
+  }, 
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "0.99", 
+     "value": 0.98999999999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:44:52Z", 
+     "value_string": "0.57", 
+     "value": 0.56999999999999995
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:48:35Z", 
+     "value_string": "1.2", 
+     "value": 1.2
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:13Z", 
+     "value_string": "0.6", 
+     "value": 0.59999999999999998
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:49Z", 
+     "value_string": "0.6", 
+     "value": 0.59999999999999998
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.MW.A_PH"
+  }, 
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "1.21", 
+     "value": 1.21
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:45:13Z", 
+     "value_string": "0.77", 
+     "value": 0.77000000000000002
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:48:35Z", 
+     "value_string": "1.32", 
+     "value": 1.3200000000000001
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:49:53Z", 
+     "value_string": "0.79", 
+     "value": 0.79000000000000004
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:49Z", 
+     "value_string": "0.79", 
+     "value": 0.79000000000000004
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.MW.B_PH"
+  }, 
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "0.95999998", 
+     "value": 0.95999997999999997
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:49:33Z", 
+     "value_string": "0.5", 
+     "value": 0.5
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:49Z", 
+     "value_string": "0.5", 
+     "value": 0.5
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.MW.C_PH"
+  }, 
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:32:14Z", 
+     "value_string": "0.99", 
+     "value": 0.98999999999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "0.99", 
+     "value": 0.98999999999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:44:12Z", 
+     "value_string": "0.97", 
+     "value": 0.96999999999999997
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:46:54Z", 
+     "value_string": "0.93", 
+     "value": 0.93000000000000005
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:47:14Z", 
+     "value_string": "0.99", 
+     "value": 0.98999999999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:49:32Z", 
+     "value_string": "-0.98", 
+     "value": -0.97999999999999998
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:13Z", 
+     "value_string": "1", 
+     "value": 1.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:49Z", 
+     "value_string": "1", 
+     "value": 1.0
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:52:34Z", 
+     "value_string": "0.94", 
+     "value": 0.93999999999999995
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:54:12Z", 
+     "value_string": "0.98", 
+     "value": 0.97999999999999998
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:59:12Z", 
+     "value_string": "0.96", 
+     "value": 0.95999999999999996
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.PF.A_PH"
+  }, 
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "0.97", 
+     "value": 0.96999999999999997
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:49:12Z", 
+     "value_string": "0.99", 
+     "value": 0.98999999999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:49Z", 
+     "value_string": "0.99", 
+     "value": 0.98999999999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:59:12Z", 
+     "value_string": "0.97", 
+     "value": 0.96999999999999997
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.PF.B_PH"
+  }, 
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "0.96", 
+     "value": 0.95999999999999996
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:49:12Z", 
+     "value_string": "0.99", 
+     "value": 0.98999999999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:49Z", 
+     "value_string": "0.99", 
+     "value": 0.98999999999999999
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.PF.C_PH"
+  }, 
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "124.7", 
+     "value": 124.7
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:47:34Z", 
+     "value_string": "125.3", 
+     "value": 125.3
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:49Z", 
+     "value_string": "124.7", 
+     "value": 124.7
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.V.A_PH"
+  }, 
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "124.2", 
+     "value": 124.2
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:49:53Z", 
+     "value_string": "124.8", 
+     "value": 124.8
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:49Z", 
+     "value_string": "124.2", 
+     "value": 124.2
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.V.B_PH"
+  }, 
+  {
+   "feeder_id": "811263", 
+   "time_series": [
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:34:55Z", 
+     "value_string": "124.1", 
+     "value": 124.09999999999999
+    }, 
+    {
+     "status": "OK", 
+     "timestamp_utc": "2016-01-16T17:50:49Z", 
+     "value_string": "124.5", 
+     "value": 124.5
+    }
+   ], 
+   "extended_id": "EUREKA.FDR.811263_3W133.V.C_PH"
+  }
+ ], 
+ "end_time_utc": "2016-01-16T18:00:00Z", 
+ "message_type": "EDNA", 
+ "message_id": "6860b2fb-fbea-4d3a-8fa7-b1aa4c6d1c6c"
+}

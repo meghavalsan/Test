@@ -1,0 +1,21 @@
+{
+   "message_time_utc":"2016-01-15T07:50:00Z",
+   "start_time_utc":"2016-01-15T07:00:00Z",
+   "message_id":"8b51721f-f351-4747-b519-6c07d1d85741",
+   "end_time_utc":"2016-01-15T07:30:00Z",
+   "data":[
+      {
+         "feeder_id":"811263",
+         "time_series":[
+            {
+               "status":"OK",
+               "timestamp_utc":"2016-01-15T07:00:12Z",
+               "value_string":"69",
+               "value":69.0
+            }
+         ],
+         "extended_id":"EUREKA.FDR.811263_3W133.I.A_PH"
+      }
+   ],
+   "message_type":"EDNA"
+}

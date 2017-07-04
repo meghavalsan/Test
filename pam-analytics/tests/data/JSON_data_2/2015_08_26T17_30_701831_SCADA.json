@@ -1,0 +1,42 @@
+{
+ "message_time_utc": "2015-08-26T18:20:00Z", 
+ "start_time_utc": "2015-08-26T17:30:00Z", 
+ "data": [
+  {
+   "feeder_id": "701831", 
+   "time_series": [
+    {
+     "timestamp_utc": "2015-08-26T17:35:54Z", 
+     "value": "ROCK_ISLAND FEEDER 2W66_F1831 BKR OPEN"
+    }, 
+    {
+     "timestamp_utc": "2015-08-26T17:35:56Z", 
+     "value": "ROCK_ISLAND FEEDER 2W66_F1831 BKR CLOSED"
+    }, 
+    {
+     "timestamp_utc": "2015-08-26T17:38:54Z", 
+     "value": "ROCK_ISLAND FEEDER 2W66_F1831 BKR OPEN-CLOSED-OPEN"
+    }, 
+    {
+     "timestamp_utc": "2015-08-26T17:39:00Z", 
+     "value": "ROCK_ISLAND FDRHD F1831 ENGZ DE-ENERGIZED"
+    }, 
+    {
+     "timestamp_utc": "2015-08-26T17:39:10Z", 
+     "value": "ROCK_ISLAND FEEDER 2W66_F1831 BKR CLOSED"
+    }, 
+    {
+     "timestamp_utc": "2015-08-26T17:39:15Z", 
+     "value": "ROCK_ISLAND FDRHD F1831 ENGZ ENERGIZED"
+    }, 
+    {
+     "timestamp_utc": "2015-08-26T17:46:55Z", 
+     "value": "ROCK_ISLAND FEEDER 2W66_F1831 BKR OPEN-CLOSED"
+    }
+   ]
+  }
+ ], 
+ "end_time_utc": "2015-08-26T18:00:00Z", 
+ "message_type": "SCADA", 
+ "message_id": "e7df7508-d4f9-4614-88c9-841ada9cf0bd"
+}

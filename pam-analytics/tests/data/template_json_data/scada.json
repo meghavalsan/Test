@@ -1,0 +1,18 @@
+{
+ "message_time_utc": "TIME",
+ "data": [
+  {
+   "feeder_id": "811263",
+   "time_series": [
+    {
+     "timestamp_utc": "TIME",
+     "value": "EUREKA FEEDER 3W133_F11263 BKR OPEN-CLOSED-OPEN"
+    }
+   ]
+  }
+ ],
+ "message_type": "SCADA",
+ "message_id": "e53ecfb6-ebd0-46a1-b494-3bd6d841987f",
+ "start_time_utc": "TIME",
+ "end_time_utc": "TIME"
+}

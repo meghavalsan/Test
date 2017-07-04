@@ -1,0 +1,15 @@
+win_type_codes:
+  - FDR
+win_cause_codes:
+  - '188'
+  - '189'
+  - '1'
+  - '6'
+win_min_hrs: 0.5
+win_max_hrs: 336
+miss_type_codes:
+   - FDR
+   - LAT
+   - OCR
+miss_min_hrs: -0.5
+miss_max_hrs: 0.5
